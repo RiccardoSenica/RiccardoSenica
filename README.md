@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Riccardo 👋
 
-# I'm a Back End Developer!
+# I'm a Full Stack Developer!
 
 ---
 ### 📫 How to reach me
