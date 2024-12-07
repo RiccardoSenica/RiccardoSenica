@@ -1,38 +1,49 @@
-<!--
+# Hi there, I'm Riccardo 👋
 
-Here are some ideas to get you started:
+<div align="center">
+  <h2>Full Stack Developer passionate about building impactful web applications</h2>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
 
-## Hi there, I'm Riccardo 👋
+### Tech Stack
 
-# I'm a Full Stack Developer!
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riccardosenica&theme=tokyonight&layout=compact&langs_count=8&card_width=320" alt="Top Languages" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=riccardosenica&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" />
+</div>
+
+## 🌱 Currently Working On
+
+- Building scalable full-stack applications
+- Improving testing practices and CI/CD workflows
+
+## 📫 Let's Connect!
+
+<a href="https://linkedin.com/in/riccardosenica">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ---
-### 📫 How to reach me
 
-[<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" alt="Riccardo Senica | LinkedIn" width="40" height="40" height="40" />][linkedin]
-
----
-### 💻 Codebox
-
-<img src="https://camo.githubusercontent.com/d9b2f2f4afa4e6fdbafebd3e918374e8c0f6d8b9a37d33a5187e03b64d3a93f7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d666666666666266c6f676f436f6c6f723d333137384336266c6f676f3d74797065736372697074" alt="typescript logo" title="TypeScript" height="40"/> <img src="https://camo.githubusercontent.com/751a9689ee78d223598375a6962910479def3babeb8033812f26b7e370d2bf66/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d666666666666266c6f676f436f6c6f723d463744463145266c6f676f3d6a617661736372697074" alt="javascript logo" title="JavaScript" height="40"/> <img src="https://camo.githubusercontent.com/ae51952f6c3ab947f1788316d09a9ddb460a07b1f9fe9a159e05e583138646f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d316532313232266c6f676f436f6c6f723d333339393333266c6f676f3d6e6f64652d646f742d6a73" alt="nodejs logo" title="Node.js" height="40"/> <img src="https://camo.githubusercontent.com/84a4532f24c560a34821d77b6f0ad8fd33acf6ba8d8086430ef1ba01cf1ff692/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3631444146423f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d323032333241266c6f676f436f6c6f723d363144414642266c6f676f3d7265616374" alt="react" title="React"  height="40"/> <img src="https://camo.githubusercontent.com/59763d1106a2bb139472a9033c281c695bf26b1edeeaf428dbdd7a31a65b9ba5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d4332313332353f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d666666666666266c6f676f436f6c6f723d433231333235266c6f676f3d6a657374" alt="jest" title="Jest" height="40"/> <img src="https://camo.githubusercontent.com/721644586e366ea3c0a5897ead58313874c42a3afa9e073956de5a5c9f64c8cd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45534c696e742d3442333243333f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d344233324333266c6f676f436f6c6f723d383038306632266c6f676f3d65736c696e74" alt="eslint" title="Eslint" height="40"/> <img src="https://camo.githubusercontent.com/2bf96c06e39c99e8652993df10131c9ae00013ed156843356d0bf63f4b40b1e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4772617068514c2d4534333441413f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d666666666666266c6f676f436f6c6f723d453433344141266c6f676f3d6772617068716c" alt="graphql logo" title="GraphQL" height="40"/> <img src="https://camo.githubusercontent.com/a03cc7c29798f11ac791804381f982df09cfb1f42ac94201d925dee839cfe1d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d666666666666266c6f676f436f6c6f723d343136394531266c6f676f3d706f737467726573716c" alt="postgresql logo" title="PostgreSQL" height="40"/> <img src="https://camo.githubusercontent.com/235a1e3a0488dbd4202ce678aa04a04281f5c4cecf58f554b13212d6cbfd8238/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d463035303332266c6f676f436f6c6f723d666666666666266c6f676f3d676974" alt="git logo" title="Git" height="40"/> <img src="https://camo.githubusercontent.com/c3533441256cdc3d23be9c9b14d627f48a1db23b432082846701ff04475a2f7a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3234393645443f7374796c653d666f722d7468652d6261646765266c6162656c436f6c6f723d333639636565266c6f676f436f6c6f723d666666666666266c6f676f3d646f636b6572" alt="docker logo" title="Docker" height="40"/>
-<br />
-
----
-### 📈 My GitHub stats
-<br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riccardosenica&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Riccardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=riccardosenica&&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[linkedin]: https://linkedin.com/in/riccardosenica
+<div align="center">
+  <i>Feel free to reach out for collaborations or just a friendly chat!</i>
+</div>
